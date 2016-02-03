@@ -194,8 +194,6 @@ art_cflags := \
   -fno-rtti \
   -std=gnu++11 \
   -ggdb3 \
-  -Wall \
-  -Werror \
   -Wextra \
   -Wstrict-aliasing \
   -fstrict-aliasing \
